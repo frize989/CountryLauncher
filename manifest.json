@@ -1,29 +1,224 @@
-{
-  "minecraft_version": "1.21.1",
-  "loader": "neoforge",
-  "source": "modrinth",
-  "mods": [
-    {"name": "FerriteCore", "project_id": "ferrite-core"},
-    {"name": "Mouse Tweaks", "project_id": "mousetweaks"},
-    {"name": "Curios API", "project_id": "curios"},
-    {"name": "Player Animator", "project_id": "playeranimator"},
-    {"name": "GeckoLib", "project_id": "geckolib"},
-    {"name": "ModernFix", "project_id": "modernfix"},
-    {"name": "Xaero's World Map", "project_id": "xaeros-world-map"},
-    {"name": "Smooth Swapping", "project_id": "smooth-swapping"},
-    {"name": "JEI", "project_id": "jei"},
-    {"name": "Farmer's Delight", "project_id": "farmers-delight"},
-    {"name": "Create Crafts & Additions", "project_id": "createaddition"},
-    {"name": "Copycats+", "project_id": "copycats"},
-    {"name": "Chat Heads", "project_id": "chat-heads"},
-    {"name": "Don't Clear Chat History", "project_id": "dont-clear-chat-history"},
-    {"name": "Ok Zoomer", "project_id": "ok-zoomer"},
-    {"name": "Create: Connected", "project_id": "create-connected"},
-    {"name": "Patchouli", "project_id": "patchouli"},
-    {"name": "Sophisticated Backpacks", "project_id": "sophisticated-backpacks"},
-    {"name": "Architectury API", "project_id": "architectury-api"},
-    {"name": "Sophisticated Core", "project_id": "sophisticated-core"},
-    {"name": "Create Deco", "project_id": "createdeco"},
-    {"name": "Create", "project_id": "create"}
-  ]
-}
+[
+  {
+    "name": "architecture",
+    "modrinth_id": "",
+    "version": "13.0.11-neoforge",
+    "download_url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "chat_heads",
+    "modrinth_id": "Wb5oqrBJ",
+    "version": "0.15.7-neoforge-1.21",
+    "download_url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ZPylso9i/chat_heads-0.15.7-neoforge-1.21.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "chatanimation",
+    "modrinth_id": "DnNYdJsx",
+    "version": "1.2.0+neoforge-1.21.1",
+    "download_url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/V5qqdnk8/chatanimation-1.2.0+neoforge-1.21.1.jar"
+  },
+  {
+    "name": "copycats",
+    "modrinth_id": "UT2M39wf",
+    "version": "3.0.9_28mc_1.21.1-neoforge",
+    "download_url": "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "create_connected",
+    "modrinth_id": "Vg5TIO6d",
+    "version": "1.3.3-mc1.21.1",
+    "download_url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Xe7EqzfQ/create_connected-1.3.3-mc1.21.1.jar"
+  },
+  {
+    "name": "create_radar",
+    "modrinth_id": "BLu2Yqfq",
+    "version": "0.4.9.4-1.21.1",
+    "download_url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/AntNFNAx/create_radar-0.4.9.4-1.21.1.jar"
+  },
+  {
+    "name": "create",
+    "modrinth_id": "LNytGWDc",
+    "version": "6.0.10",
+    "download_url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
+  },
+  {
+    "name": "createaddition",
+    "modrinth_id": "kU1G12Nn",
+    "version": "1.7.2",
+    "download_url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/qPr8V4G2/createaddition-1.6.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "create-aeronautics-bundled",
+    "modrinth_id": "oWaK0Q19",
+    "version": "1.21.1",
+    "download_url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "createbigcannons",
+    "modrinth_id": "GWp4jCJj",
+    "version": "5.11.7",
+    "download_url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7+mc.1.21.1.jar"
+  },
+  {
+    "name": "createdeco",
+    "modrinth_id": "sMvUb4Rb",
+    "version": "2.1.3",
+    "download_url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar"
+  },
+  {
+    "name": "create-gunsmithing",
+    "modrinth_id": "7KCNsGPM",
+    "version": "1.4.9",
+    "download_url": "https://cdn.modrinth.com/data/7KCNsGPM/versions/AmBZCjMo/create-gunsmithing-1.21.1-1.4.9.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "curios",
+    "modrinth_id": "vvuO3ImH",
+    "version": "9.5.1+1.21.1",
+    "download_url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar"
+  },
+  {
+    "name": "DontClearChatHistory",
+    "modrinth_id": "dcchp",
+    "version": "Fabric-NeoForge",
+    "download_url": "https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history/download/5990144"
+  },
+  {
+    "name": "eshansmissilemod",
+    "modrinth_id": "eshans-missile-mod",
+    "version": "1.0.7",
+    "download_url": "https://cdn.modrinth.com/data/eshans-missile-mod/versions/Zegf1iL9/eshansmissilemod-1.0.7.jar"
+  },
+  {
+    "name": "FarmersDelight",
+    "modrinth_id": "R2OftAxM",
+    "version": "1.21.1-1.3.4",
+    "download_url": "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "ferritecore",
+    "modrinth_id": "uXXizFIs",
+    "version": "7.0.3-neoforge",
+    "download_url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "foxestuff",
+    "modrinth_id": "",
+    "version": "1.1.1",
+    "download_url": ""
+  },
+  {
+    "name": "geckolib",
+    "modrinth_id": "8BmcQJ2H",
+    "version": "1.21.1-4.9.3",
+    "download_url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "jei",
+    "modrinth_id": "u6dRKJwZ",
+    "version": "19.64.0.455",
+    "download_url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/iv3KiVkE/jei-1.21.1-neoforge-19.64.0.455.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "mezz_config",
+    "modrinth_id": "7tEfOcA7",
+    "version": "0.6.8",
+    "download_url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/idpM3DKC/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "modernfix",
+    "modrinth_id": "",
+    "version": "5.27.26_28mc",
+    "download_url": "https://cdn.modrinth.com/data/nmDcB62a/versions/7Jy58lnT/modernfix-neoforge-5.27.26%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "MouseTweaks",
+    "modrinth_id": "",
+    "version": "neoforge-mc1.21-2",
+    "download_url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "ntgl",
+    "modrinth_id": "5m2kV8xK",
+    "version": "1.21.1-3.2.0",
+    "download_url": "https://cdn.modrinth.com/data/5m2kV8xK/versions/zd7xJnqO/ntgl-1.21.1-3.2.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "ok_zoomer",
+    "modrinth_id": "ok-zoomer",
+    "version": "10.0.0-beta.13",
+    "download_url": "https://cdn.modrinth.com/data/aXf2OSFU/versions/AkPuuAgJ/ok_zoomer-neo-10.0.0-beta.13.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "Patchouli",
+    "modrinth_id": "nU0bVIaL",
+    "version": "1.21.1-93-neoforge",
+    "download_url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar"
+  },
+  {
+    "name": "player-animation-lib",
+    "modrinth_id": "",
+    "version": "2.0.4+1.21.1",
+    "download_url": ""
+  },
+  {
+    "name": "powergrid",
+    "modrinth_id": "power-grid",
+    "version": "mc1.21.1-0.6.0",
+    "download_url": "https://cdn.modrinth.com/data/power-grid/versions/An59qZES/powergrid-mc1.21.1-0.6.0.jar"
+  },
+  {
+    "name": "rtichiesprojectellib",
+    "modrinth_id": "",
+    "version": "2.1.2-mc.1.21.1",
+    "download_url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "sable",
+    "modrinth_id": "",
+    "version": "1.21.1-2.0.6",
+    "download_url": "https://cdn.modrinth.com/data/T9PomCSv/versions/fg9dTRz9/sable-neoforge-1.21.1-2.0.6.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "smoothswapping",
+    "modrinth_id": "",
+    "version": "0.9.3.2-1.21.1",
+    "download_url": ""
+  },
+  {
+    "name": "sophisticatedbackpacks",
+    "modrinth_id": "",
+    "version": "1.21.1-3.2",
+    "download_url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/eg9lPtG4/sophisticatedbackpacks-1.21.1-3.26.14.2222.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "sophisticatedcore",
+    "modrinth_id": "",
+    "version": "1.21.1-1.5.14.241",
+    "download_url": "https://cdn.modrinth.com/data/nmoqTijg/versions/gtPF4VTh/sophisticatedcore-1.21.1-1.5.17.2426.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "tfmg",
+    "modrinth_id": "",
+    "version": "1.2.0",
+    "download_url": "https://cdn.modrinth.com/data/hC1xYvnS/versions/L0pdVzc7/tfmg-1.21.1-1.3.2a-community.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "vortylib",
+    "modrinth_id": "",
+    "version": "1.2.5.2",
+    "download_url": "https://cdn.modrinth.com/data/8yPMyGv5/versions/WbTt1Ufx/vortylib-1.2.6.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "weaversparadise",
+    "modrinth_id": "",
+    "version": "1.6.3.1",
+    "download_url": "https://cdn.modrinth.com/data/Q5xngUCT/versions/Tyu2r6jr/weaversparadise-1.6.3.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  },
+  {
+    "name": "xaeroworldmap",
+    "modrinth_id": "",
+    "version": "1.21.1-1",
+    "download_url": "https://cdn.modrinth.com/data/NcUtCpym/versions/SnQ4SoDe/xaeroworldmap-neoforge-1.21.1-1.47.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+  }
+]
