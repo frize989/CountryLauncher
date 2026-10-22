@@ -1,125 +1,29 @@
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/create_radar-0.4.9.4-1.21.1.jar",
-      "sha256": "4554359fee389b1c255b4cef23ac41e978b2a371cec9e952185f4ec0a90ee930"
-    },
-    {
-      "name": "createaddition-1.7.2.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/createaddition-1.7.2.jar",
-      "sha256": "71e9c3ac39089e72c1e47a129a44e41eb55efc9534eecfdead8da8fb64313414"
-    },
-    {
-      "name": "createbigcannons-5.11.7_2Bmc.1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/createbigcannons-5.11.7_2Bmc.1.21.1.jar",
-      "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
-    },
-    {
-      "name": "createdeco-2.1.3.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/createdeco-2.1.3.jar",
-      "sha256": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
-    },
-    {
-      "name": "curios-neoforge-9.5.1+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/curios-neoforge-9.5.1+1.21.1.jar",
-      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
-    },
-    {
-      "name": "eshansmissilemod-1.0.7.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/eshansmissilemod-1.0.7.jar",
-      "sha256": "19f74bbfd9187c03043ac3a1279d5db03aa2a338b058dd508a15fc227a9facca"
-    },
-    {
-      "name": "ferritecore-7.0.3-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/ferritecore-7.0.3-neoforge.jar",
-      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
-    },
-    {
-      "name": "foxesstuff-1.1.1.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/foxesstuff-1.1.1.jar",
-      "sha256": "3d50642255cc2b073a06f971c3d5101bb3288ef8aad6f03c07bd7dec52f01371"
-    },
-    {
-      "name": "geckolib-neoforge-1.21.1-4.9.3.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
-      "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47"
-    },
-    {
-      "name": "jei-1.21.1-neoforge-19.64.0.455.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/jei-1.21.1-neoforge-19.64.0.455.jar",
-      "sha256": "f7a9de3d7ee07eed8d293a1a1a0f6afaac556eb43c103523457bd07ebb551e7b"
-    },
-    {
-      "name": "mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
-      "sha256": "182ad8ad757175b49d573512c8fac624ee526e8138e24b36f677b0f6466e20cb"
-    },
-    {
-      "name": "modernfix-neoforge-5.27.26_2Bmc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/modernfix-neoforge-5.27.26_2Bmc1.21.1.jar",
-      "sha256": "09f6842c63d14b3f1707f1f4a6f4602052f237f7efa9be135e41d3d97acf2a13"
-    },
-    {
-      "name": "ntgl-1.21.1-3.2.0.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/ntgl-1.21.1-3.2.0.jar",
-      "sha256": "38c3a93426c44195b7cdb0773b2d4554496bcc57f994f19779714e03b0bf0122"
-    },
-    {
-      "name": "ok_zoomer-neo-10.0.0-beta.13.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/ok_zoomer-neo-10.0.0-beta.13.jar",
-      "sha256": "61da322358127329d40b36a028faa7d91c370a3708e08becf1f1b8b242c5eb61"
-    },
-    {
-      "name": "player-animation-lib-forge-2.0.4+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
-      "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
-    },
-    {
-      "name": "powergrid-mc1.21.1-0.6.0.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/powergrid-mc1.21.1-0.6.0.jar",
-      "sha256": "b3a01d342bef75760fafbafaba5541f2603b337e82d017dcda220df3acbca929"
-    },
-    {
-      "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
-      "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
-    },
-    {
-      "name": "sable-neoforge-1.21.1-2.0.6.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/sable-neoforge-1.21.1-2.0.6.jar",
-      "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2"
-    },
-    {
-      "name": "smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
-      "sha256": "c1187b545097df22c528e9339902ab3631bea2da2b94f7b1569faabbc548d041"
-    },
-    {
-      "name": "sophisticatedbackpacks-1.21.1-3.26.12.2208.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/sophisticatedbackpacks-1.21.1-3.26.12.2208.jar",
-      "sha256": "f4d69f37af7cbcf5a19971b053b10047aab909a1673928b2fe9ba8f1092ef810"
-    },
-    {
-      "name": "sophisticatedcore-1.21.1-1.5.14.2413.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/sophisticatedcore-1.21.1-1.5.14.2413.jar",
-      "sha256": "3abac9ba876a2eb19ce7ab9c080b81a5383f286d6e54b7d0912b29401aca9c2c"
-    },
-    {
-      "name": "tfmg-1.2.0.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/tfmg-1.2.0.jar",
-      "sha256": "fc824a91cfe22e137c9014ed608ee9bf35f16490d2162b687666332c6eb3a555"
-    },
-    {
-      "name": "vortylib-1.2.5.2.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/vortylib-1.2.5.2.jar",
-      "sha256": "2b062fc3aefee6ce8f51cdfaeb1af21b0b4dbf74408ae680ad473e220662be7b"
-    },
-    {
-      "name": "weaversparadise-1.6.3.1.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/weaversparadise-1.6.3.1.jar",
-      "sha256": "9f712858de1879276c348a2ede007e5dfda35fb52850d73f1f02a850d79e33d8"
-    },
-    {
-      "name": "xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
-      "url": "https://raw.githubusercontent.com/frize989/CountryLauncher/main/mods/xaeroworldmap-neoforge-1.21.1-1.47.0.jar",
-      "sha256": "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7"
-    }
+{
+  "minecraft_version": "1.21.1",
+  "loader": "neoforge",
+  "source": "modrinth",
+  "mods": [
+    {"name": "FerriteCore", "project_id": "ferrite-core"},
+    {"name": "Mouse Tweaks", "project_id": "mousetweaks"},
+    {"name": "Curios API", "project_id": "curios"},
+    {"name": "Player Animator", "project_id": "playeranimator"},
+    {"name": "GeckoLib", "project_id": "geckolib"},
+    {"name": "ModernFix", "project_id": "modernfix"},
+    {"name": "Xaero's World Map", "project_id": "xaeros-world-map"},
+    {"name": "Smooth Swapping", "project_id": "smooth-swapping"},
+    {"name": "JEI", "project_id": "jei"},
+    {"name": "Farmer's Delight", "project_id": "farmers-delight"},
+    {"name": "Create Crafts & Additions", "project_id": "createaddition"},
+    {"name": "Copycats+", "project_id": "copycats"},
+    {"name": "Chat Heads", "project_id": "chat-heads"},
+    {"name": "Don't Clear Chat History", "project_id": "dont-clear-chat-history"},
+    {"name": "Ok Zoomer", "project_id": "ok-zoomer"},
+    {"name": "Create: Connected", "project_id": "create-connected"},
+    {"name": "Patchouli", "project_id": "patchouli"},
+    {"name": "Sophisticated Backpacks", "project_id": "sophisticated-backpacks"},
+    {"name": "Architectury API", "project_id": "architectury-api"},
+    {"name": "Sophisticated Core", "project_id": "sophisticated-core"},
+    {"name": "Create Deco", "project_id": "createdeco"},
+    {"name": "Create", "project_id": "create"}
   ]
 }
