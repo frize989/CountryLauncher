@@ -1,6 +1,25 @@
+
 {
-  "name": "Create",
-  "modrinth_id": "create",
-  "version": "6.0.10",
-  "download_url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
+  "mods": [
+    {
+      "name": "sodium-neoforge-0.8.12.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/S3DUMfBo/sodium-neoforge-0.8.12%2Bmc1.21.1.jar",
+      "sha256": ""
+    },
+    {
+      "name": "entityculling-neoforge-1.9.5.jar",
+      "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/DwB2BGbW/entityculling-neoforge-1.9.5-mc1.21.1.jar",
+      "sha256": ""
+    },
+    {
+      "name": "ImmediatelyFast-NeoForge-1.6.14.jar",
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/OUpXxw4n/ImmediatelyFast-NeoForge-1.6.14%2B1.21.1.jar",
+      "sha256": ""
+    },
+    {
+      "name": "modernfix-neoforge-5.27.26.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/7Jy58lnT/modernfix-neoforge-5.27.26%2Bmc1.21.1.jar",
+      "sha256": ""
+    }
+  ]
 }
