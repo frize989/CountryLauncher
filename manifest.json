@@ -183,7 +183,7 @@
     "name": "sophisticatedbackpacks",
     "modrinth_id": "TyCTlI4b",
     "version": "1.21.1-3.26.12.2208",
-    "download_url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/DY0e8WVr/sophisticatedbackpacks-1.21.1-3.26.20.2244.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+    "download_url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/QkVLEgt1/sophisticatedbackpacks-1.21.1-3.26.12.2208.jar"
   },
   {
     "name": "modernfix",
@@ -213,7 +213,7 @@
     "name": "sophisticatedcore",
     "modrinth_id": "nmoqTijg",
     "version": "1.21.1-1.5.14.2413",
-    "download_url": "https://cdn.modrinth.com/data/nmoqTijg/versions/jo2tOOfF/sophisticatedcore-1.21.1-1.5.31.2460.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+    "download_url": "https://cdn.modrinth.com/data/nmoqTijg/versions/oTvXRMtK/sophisticatedcore-1.21.1-1.5.14.2413.jar"
   },
   {
     "name": "powergrid",
@@ -240,16 +240,10 @@
     "download_url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar"
   },
   {
-  "name": "createbigcannons",
-  "modrinth_id": "GWp4jCJj",
-  "version": "5.11.7",
-  "download_url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7+mc.1.21.1.jar"
-  },
-  {
-  "name": "ritchiesprojectilelib",
-  "modrinth_id": "B3pb093D",
-  "version": "2.1.2",
-  "download_url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
+    "name": "createbigcannons",
+    "modrinth_id": "GWp4jCJj",
+    "version": "5.11.7",
+    "download_url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7+mc.1.21.1.jar"
   },
   {
     "name": "ritchiesprojectilelib",
