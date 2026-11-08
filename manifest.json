@@ -250,5 +250,35 @@
   "modrinth_id": "B3pb093D",
   "version": "2.1.2",
   "download_url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
-}
+  }.
+  {
+    "name": "ritchiesprojectilelib",
+    "modrinth_id": "B3pb093D",
+    "version": "2.1.2",
+    "download_url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
+  },
+  {
+    "name": "Create: Gunsmithing",
+    "modrinth_id": "7KCNsGPM",
+    "version": "1.4.9",
+    "download_url": "https://cdn.modrinth.com/data/7KCNsGPM/versions/AmBZCjMo/create-gunsmithing-1.21.1-1.4.9.jar"
+  },
+  {
+    "name": "Create: The Air War",
+    "modrinth_id": "GMrNnOis",
+    "version": "5.00",
+    "download_url": "https://cdn.modrinth.com/data/GMrNnOis/versions/moqz93W3/create_the_air_wars-5.00.jar"
+  },
+  {
+    "name": "LowDragLib2",
+    "modrinth_id": "B1CBVXHX",
+    "version": "2.2.46.a",
+    "download_url": "https://cdn.modrinth.com/data/B1CBVXHX/versions/Zrj8M2XK/ldlib2-neoforge-1.21.1-2.2.46.a-all.jar"
+  },
+  {
+    "name": "Eshan's Missile Mod",
+    "modrinth_id": "HNFihCOK",
+    "version": "1.0.7",
+    "download_url": "https://cdn.modrinth.com/data/HNFihCOK/versions/Zegf1iL9/eshansmissilemod-1.0.7.jar"
+  }
 ]
